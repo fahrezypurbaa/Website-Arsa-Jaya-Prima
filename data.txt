@@ -1,0 +1,9 @@
+Login Niagahoster :
+- Login https://www.niagahoster.co.id/cpanel-login
+- Email : arsajayaprima@gmail.com
+- Password : t#2X9JTCm}50[Wa
+
+Login Database Arsa :
+- MySQL database name : db_arsa
+- MySQL username : db_arsa_training
+- Password : t#2X9JTCm}50[Wa

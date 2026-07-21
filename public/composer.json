@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tymon/jwt-auth": "^2.1",
+        "maatwebsite/excel": "^3.1"
+    }
+}
