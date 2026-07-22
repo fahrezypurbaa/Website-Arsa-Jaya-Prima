@@ -112,7 +112,8 @@ php artisan serve
 
 > Screenshots will be added in a future update.
 
----
+<img width="949" height="437" alt="image" src="https://github.com/user-attachments/assets/734521f2-b9c9-4a88-bf7e-fdde0a4d987d" />
+
 
 ## Notes
 
