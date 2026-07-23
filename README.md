@@ -129,7 +129,7 @@ Please configure your own environment before running the project.
 
 ## Author
 
-**Fahrezy Purba**
+**Fahrezy A D Romero Purba**
 
 - GitHub: https://github.com/fahrezypurbaa
 - LinkedIn: www.linkedin.com/in/fahrezyromeropurba 
